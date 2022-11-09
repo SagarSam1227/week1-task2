@@ -1,0 +1,241 @@
+.header{
+    width: 100%;
+    height: 80px;
+    background: black;
+}
+body{
+    margin: 0;
+}
+.container{
+    width: 100%;
+   
+}
+.logo{
+    width: 50%;
+    padding-top: 14px;
+    margin-left: 40px;
+    float: left;
+}
+.login{
+    width: 43%;
+    height: 22px;
+    float: right;
+    padding-top: 31px;
+}
+.Premium{
+    color: #fff;
+    text-decoration: none;
+    font-family: Circular,spotify-circular,Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    float: left;
+}
+.Support-d{
+    color: white;
+    text-decoration: none;
+    font-family: Circular,spotify-circular,Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    display: block;
+    text-align: center;
+}
+
+#none{
+    color: white;
+    font-family: Circular,spotify-circular,Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+}
+.Signup-l{
+    color: #d9dadc;
+    text-decoration: none;
+    font-family: Circular,spotify-circular,Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    display: block;
+    text-align: center;
+}
+#menu{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+}
+#menu li{
+    float: left;
+    padding-left: 34px;
+}
+.seprator{
+    margin: 0;
+    padding-left: 0;
+}
+.section1{
+    background-image: url("img/Screenshot\ 2022-11-07\ 212857.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    width: 100%;
+    float: left;
+}
+.s1{
+    height: 49px;
+    width: 50%;
+
+}
+.curlybutton{
+    font-family: var(--font-family,spotify-circular),Helvetica,Arial,sans-serif;
+    font-weight: bold;
+    margin-top: 362px;
+    margin-left: 508px;
+    border-radius: 45px;
+    border: none;
+    background-color: white;
+    cursor: pointer;
+}
+.section2{
+    background-color: #fff;
+    width: 100%;
+    height: 600px;
+    float: left;
+}
+#why{
+    font-family: Spotify Circular;
+    font-weight: 900;
+    font-size: 37px;
+    text-align: center;
+    margin-top: 69px;
+}
+table{
+    padding-top: 42px;
+}
+th{
+    padding-left: 128px;
+}
+.words {
+    padding-left: 128px;
+    font-size: 21px;
+    font-family: var(--font-family,spotify-circular),Helvetica,Arial,sans-serif;
+    padding-top: 39px;
+}
+#features {
+    list-style-type: none;
+    margin: 0;
+    padding-top: 34px;
+    font-weight: bold;
+    font-size: 21px;
+    font-family: var(--font-family,spotify-circular),Helvetica,Arial,sans-serif;
+}
+.f1{
+    float: left;
+   padding-left: 71px;
+    
+}
+.f2{
+    float: left;
+    padding-left: 77px;
+   
+}
+.f3{
+    float: left;
+    padding-left: 113px;
+    
+}
+.f4{
+    float: left;
+    padding-left: 115px;
+    
+}
+.para{
+    float: left;
+    text-align: center;
+    font-family: var(--font-family,spotify-circular),Helvetica,Arial,sans-serif;
+    font-size: 15px;
+    letter-spacing: 1px;
+    line-height: 23px;
+}
+.section3{
+    width: 100%;
+    height: 494px;
+    background: linear-gradient(rgb(176, 35, 194) 15%, rgb(96, 11, 231));
+    float: left;
+}
+#s3head{
+    color: white;
+    text-align: center;
+    padding-top: 155px;
+    font-size: 46px;
+    font-family: var(--font-family,spotify-circular),Helvetica,Arial,sans-serif;
+}
+.section4{
+    float: left;
+    width: 100%;
+    background: #fff;
+    overflow: auto;
+}
+.section5{
+    background-image: url("img/footer.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+    width: 100%;
+    height: 400px;
+}
+#question{
+    font-size: 35px;
+    font-weight: 700;
+    text-align: center;
+    font-size: var(--headline-font-size,40px);
+    line-height: var(--headline-line-height,46px);
+    font-family: var(--font-family,spotify-circular),Helvetica,Arial,sans-serif-webkit-tap-highlight-color ;
+    padding-top: 47px;
+}
+.details1{
+    padding-left: 78px;
+    font-size: 16px;
+    font-stretch: 35px;
+    letter-spacing: 1px;
+    padding-top: 28px;
+    font-family: var(--font-family,spotify-circular),Helvetica,Arial,sans-serif-webkit-tap-highlight-color;
+    font-weight: 800;
+}
+.summary1{
+    width: 89%;
+    height: 38px;
+}
+.sum1-1{
+    width: 81%;
+    float: left;
+    height: 38px;
+}
+.sum1-2{
+    float: right;
+}
+p{
+    color: black;
+}
+.para1 {
+    font-size: 13px;
+    font-weight: 100;
+    line-height: 3;
+}
+.ordered{
+    font-size: 14px;
+    font-weight: 100;
+}
+.create{
+    color: aqua;
+}
+.blanksection{
+    float: left;
+    width: 100%;
+    height: 76px;
+    background: white;
+}
+.footer{
+    background-image: url(/images/spotify/footer.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+    width: 100%;
+    height: 400px;
+}
